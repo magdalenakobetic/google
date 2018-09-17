@@ -1,0 +1,35 @@
+body {
+	font-family: Arial;
+}
+
+img.logo {
+	width:7%;
+	height:
+
+}
+.wrapper {
+	width:440px;
+	height:500px;
+	margin-right: auto;
+	margin-top:240px;
+	border: 2px;
+	border-radius: 25px;
+}
+
+.email {
+	color: grey ;
+}
+
+.text {
+	font-size: 17px ;
+	margin-top: 18px;
+	text-align: center;
+}
+
+.naslov1 {
+
+}
+
+.naslov2 {
+
+}
